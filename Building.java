@@ -58,7 +58,6 @@ public class Building {
 		}
 			
 		else if(word.equals("quit")){
-			System.out.println(word);
 			System.out.println("Thank you!");
 			break;
 		}else {
